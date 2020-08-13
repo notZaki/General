@@ -1,0 +1,5 @@
+[0]
+JuMP = "0.21-0.22"
+LightGraphs = "1"
+MetaGraphs = "0.6"
+julia = "1"
